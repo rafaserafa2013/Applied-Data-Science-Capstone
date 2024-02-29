@@ -14,14 +14,19 @@ Qual é o melhor algoritmo que pode ser usado para classificação binária nest
 📄 Metodologia
 
 1. Metodologia de coleta de dados
-Usando a API SpaceX Rest
-Usando Web Scrapping da Wikipedia
+  Usando a API SpaceX Rest
+
+  Usando Web Scrapping da Wikipedia
+
 2. Realização de disputa de dados
-Filtrando os dados
-Lidando com valores ausentes
-Usando One Hot Encoding para preparar os dados para uma classificação binária
+  Filtrando os dados
+  Lidando com valores ausentes
+  Usando One Hot Encoding para preparar os dados para uma classificação binária
+
 3. Realizou análise exploratória de dados (EDA) usando visualização e SQL
+   
 4. Realizou análises visuais interativas usando Folium e Plotly Dash
+
 5. Análise preditiva realizada usando modelos de classificação
-Construção, ajuste e avaliação de modelos de classificação para garantir os melhores resultados
+  Construção, ajuste e avaliação de modelos de classificação para garantir os melhores resultados
 ​
