@@ -1,4 +1,4 @@
-🚀 Ponto final da ciência de dados aplicada
+🚀 Applied Data Science Capstone
 
 Este Capstone é o 10º curso (final) da especialização IBM Data Science Professional Certificate e, na verdade, resume na forma de projeto todos os materiais que foram aprendidos durante esta especialização.
 
