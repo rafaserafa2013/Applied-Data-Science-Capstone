@@ -9,9 +9,10 @@ A SpaceX é a empresa de maior sucesso da era espacial comercial, tornando as vi
 📄 Perguntas a serem respondidas
 Como variáveis como massa da carga útil, local de lançamento, número de voos e órbitas afetam o sucesso do pouso do primeiro estágio?
 A taxa de pousos bem-sucedidos aumenta ao longo dos anos?
-
 Qual é o melhor algoritmo que pode ser usado para classificação binária neste caso?
+
 📄 Metodologia
+
 1. Metodologia de coleta de dados
 Usando a API SpaceX Rest
 Usando Web Scrapping da Wikipedia
