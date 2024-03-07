@@ -1,32 +1,23 @@
-🚀 Applied Data Science Capstone
+Applied Data Science Capstone
 
-Este Capstone é o 10º curso (final) da especialização IBM Data Science Professional Certificate e, na verdade, resume na forma de projeto todos os materiais que foram aprendidos durante esta especialização.
+This Capstone is the 10th (final) course of the IBM Data Science Professional Certificate specialization and actually summarizes in project form all the materials that were learned during this specialization.
 
-📄 Histórico do projeto
+📄 Project history
 
-A SpaceX é a empresa de maior sucesso da era espacial comercial, tornando as viagens espaciais acessíveis. A empresa divulga em seu site lançamentos de foguetes Falcon 9, com custo de 62 milhões de dólares; outros fornecedores custam mais de 165 milhões de dólares cada, grande parte da economia se deve ao fato de a SpaceX poder reutilizar o primeiro estágio. Portanto, se pudermos determinar se o primeiro estágio pousará, poderemos determinar o custo de um lançamento. Com base em informações públicas e modelos de aprendizado de máquina, vamos prever se a SpaceX reutilizará o primeiro estágio.
+SpaceX is the most successful company of the commercial space age, making space travel affordable. The company advertises on its website Falcon 9 rocket launches, costing 62 million dollars; other suppliers cost more than $165 million each, much of the savings are due to the fact that SpaceX can reuse the first stage. So if we can determine whether the first stage will land, we can determine the cost of a launch. Based on public information and machine learning models, we will predict whether SpaceX will reuse the first stage.
 
-📄 Perguntas a serem respondidas
-Como variáveis como massa da carga útil, local de lançamento, número de voos e órbitas afetam o sucesso do pouso do primeiro estágio?
-A taxa de pousos bem-sucedidos aumenta ao longo dos anos?
-Qual é o melhor algoritmo que pode ser usado para classificação binária neste caso?
+📄 Questions to be answered How do variables such as payload mass, launch site, number of flights and orbits affect first stage landing success? Does the rate of successful landings increase over the years? What is the best algorithm that can be used for binary classification in this case?
 
-📄 Metodologia
+📄 Methodology
 
-1. Metodologia de coleta de dados
-  Usando a API SpaceX Rest
+Data Collection Methodology Using the SpaceX Rest API
+Using Web Scrapping from Wikipedia
 
-  Usando Web Scrapping da Wikipedia
+Performing data wrangling Filtering the data Handling missing values Using One Hot Encoding to prepare the data for binary classification
 
-2. Realização de disputa de dados
-  Filtrando os dados
-  Lidando com valores ausentes
-  Usando One Hot Encoding para preparar os dados para uma classificação binária
+Performed exploratory data analysis (EDA) using visualization and SQL
 
-3. Realizou análise exploratória de dados (EDA) usando visualização e SQL
-   
-4. Realizou análises visuais interativas usando Folium e Plotly Dash
+Performed interactive visual analysis using Folium and Plotly Dash
 
-5. Análise preditiva realizada usando modelos de classificação
-  Construção, ajuste e avaliação de modelos de classificação para garantir os melhores resultados
+Predictive analysis performed using classification models Construction, tuning and evaluation of classification models to ensure the best results​
 ​
